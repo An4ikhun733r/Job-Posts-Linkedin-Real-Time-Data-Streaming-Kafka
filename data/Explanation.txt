@@ -1,0 +1,2 @@
+The size of csv files are too big. So you can download them by yourself from https://www.kaggle.com/datasets/arshkon/linkedin-job-postings.
+Thank you for understanding!
