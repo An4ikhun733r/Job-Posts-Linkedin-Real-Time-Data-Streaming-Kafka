@@ -41,34 +41,6 @@ The project consists of the following main components:
 Every day, thousands of companies and individuals turn to LinkedIn in search of talent. This dataset contains a nearly comprehensive record of 124,000+ job postings listed in 2023 and 2024. 
 https://www.kaggle.com/datasets/arshkon/linkedin-job-postings
 
-**job_postings.csv**
-job_id: The job ID as defined by LinkedIn (https://www.linkedin.com/jobs/view/ job_id )
-company_id: Identifier for the company associated with the job posting (maps to companies.csv)
-title: Job title.
-description: Job description.
-max_salary: Maximum salary
-med_salary: Median salary
-min_salary: Minimum salary
-pay_period: Pay period for salary (Hourly, Monthly, Yearly)
-formatted_work_type: Type of work (Fulltime, Parttime, Contract)
-location: Job location
-applies: Number of applications that have been submitted
-original_listed_time: Original time the job was listed
-remote_allowed: Whether job permits remote work
-views: Number of times the job posting has been viewed
-job_posting_url: URL to the job posting on a platform
-application_url: URL where applications can be submitted
-application_type: Type of application process (offsite, complex/simple onsite)
-expiry: Expiration date or time for the job listing
-closed_time: Time to close job listing
-formatted_experience_level: Job experience level (entry, associate, executive, etc)
-skills_desc: Description detailing required skills for job
-listed_time: Time when the job was listed
-posting_domain: Domain of the website with application
-sponsored: Whether the job listing is sponsored or promoted.
-work_type: Type of work associated with the job
-currency: Currency in which the salary is provided.
-compensation_type: Type of compensation for the job.
 
 ## Amathon S3 Buckets Obtained Through Real Time Streaming
 ![image](https://github.com/user-attachments/assets/96fb22b4-c907-4419-a732-f957d3c3cd64)
